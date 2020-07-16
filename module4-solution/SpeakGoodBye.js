@@ -8,6 +8,8 @@
 // STEP 7: Create an object, called 'byeSpeaker' to which you will attach
 // the "speak" method and which you will expose to the global context
 // See Lecture 52, part 1
+  
+/*var helloSpeaker = new Object();*/
 var byeSpeaker = {};
 
 // DO NOT attach the speakWord variable to the 'byeSpeaker' object.
